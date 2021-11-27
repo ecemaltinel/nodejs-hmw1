@@ -1,0 +1,7 @@
+User was successfully on the / page @Sat Nov 27 2021 19:38:46 GMT+0300 (GMT+03:00) 
+User was successfully on the /aboutus page @Sat Nov 27 2021 19:39:04 GMT+0300 (GMT+03:00) 
+ ALERT !! User request to go on the /us page failed @Sat Nov 27 2021 19:39:14 GMT+0300 (GMT+03:00) 
+User was successfully on the / page @Sat Nov 27 2021 19:39:23 GMT+0300 (GMT+03:00) 
+User was successfully on the /contact page @Sat Nov 27 2021 19:39:31 GMT+0300 (GMT+03:00) 
+User was successfully on the /aboutus page @Sat Nov 27 2021 19:39:38 GMT+0300 (GMT+03:00) 
+ ALERT !! User request to go on the /lfjfs page failed @Sat Nov 27 2021 19:39:58 GMT+0300 (GMT+03:00) 
